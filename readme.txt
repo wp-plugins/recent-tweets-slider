@@ -69,7 +69,7 @@ Display recent tweets in slider or without slider, standrad slider and auto slid
 
 == Screenshots ==
 
-1. For screenshots, go to [http://wp-time.com/recent-tweets-slider-plugin/](http://wp-time.com/recent-tweets-slider-plugin/)
+1. For screenshots, go to http://wp-time.com/recent-tweets-slider-plugin/
 
 == Frequently Asked Questions ==
 
