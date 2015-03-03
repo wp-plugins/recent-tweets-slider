@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Display recent tweets in slider or without slider, standrad slider and auto slider, responsive and retina, full customize and unlimited colors, 8 animation effects.
+Display recent tweets in slider or without slider, standrad slider and auto slider, responsive and retina, full customize, 8 animation effects.
 
 == Description ==
 
