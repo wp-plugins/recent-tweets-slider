@@ -22,7 +22,7 @@ Display recent tweets in slider or without slider, standrad slider and auto slid
 2. Standard Slider.
 3. Auto Slider.
 4. Full Customize.
-5. Unlimited Color.
+5. Unlimited Colors.
 6. 8 Animation Effects.
 7. Fully Responsive.
 8. Retina Ready.
