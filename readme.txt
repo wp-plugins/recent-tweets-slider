@@ -67,10 +67,6 @@ Display recent tweets in slider or without slider, standrad slider and auto slid
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Go to Appearance > Widgets > Recent Tweets Slider.
 
-== Screenshots ==
-
-1. For screenshots, go to http://wp-time.com/recent-tweets-slider-plugin/
-
 == Frequently Asked Questions ==
 
 ### FAQ
