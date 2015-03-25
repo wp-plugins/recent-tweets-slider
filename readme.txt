@@ -72,7 +72,7 @@ Display recent tweets in slider or without slider, standrad slider and auto slid
 
 ### FAQ
 
-* [For more questions or help, contact me.](http://qass.im/contact/)
+* [For more questions or help, contact me.](http://wp-time.com/contact/)
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
 
 == Changelog ==
