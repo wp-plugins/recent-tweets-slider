@@ -1,6 +1,6 @@
 ﻿=== Recent Tweets Slider ===
 Contributors: Qassim.Dev
-Donate link: http://j.mp/plugins_donation
+Donate link: http://j.mp/WPTime_donations
 Tags: recent, tweets, slider, recent tweets, api, latest, latest tweets, tweet, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, customize, customizer, custom, customizing, full
 Requires at least: 3.6
 Tested up to: 4.1.1
