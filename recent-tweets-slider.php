@@ -26,100 +26,6 @@ License: GPLv2 or later
 */
 
 
-// WP Time Menu
-if( !function_exists('WPTime_Add_Admin_Bar_Menu_Aff') ) {
-
-	function WPTime_Add_Admin_Bar_Menu_Aff() {
-
-		global $wp_admin_bar;
-
-		$wp_admin_bar->add_menu(
-			array(
-				'id' 		=> 		'wptime-aff-menu-parent',
-				'parent'	=>		0,
-				'title' 	=> 		'WP Time',
-				'href' 		=> 		'http://wp-time.com',
-				'meta'		=>		array('target' => '_blank')
-			)
-		);
-
-		$wp_admin_bar->add_menu(
-			array(
-				'id' 		=> 		'wptime-aff-menu-gl',
-				'parent'	=>		'wptime-aff-menu-parent',
-				'title' 	=> 		'Best Gallery & Portfolio WordPress Plugins',
-				'href' 		=> 		'http://j.mp/GL_WPTime',
-				'meta'		=>		array('target' => '_blank')
-			)
-		);
-		
-		$wp_admin_bar->add_menu(
-			array(
-				'id' 		=> 		'wptime-aff-menu-et',
-				'parent'	=>		'wptime-aff-menu-parent',
-				'title' 	=> 		'Collection Of 87 WP Themes For $69 Only',
-				'href' 		=> 		'http://j.mp/ET_WPTime_ref_pl',
-				'meta'		=>		array('target' => '_blank')
-			)
-		);
-
-		$wp_admin_bar->add_menu(
-			array(
-				'id' 		=> 		'wptime-aff-menu-cm',
-				'parent'	=>		'wptime-aff-menu-parent',
-				'title' 	=> 		'WP Themes On Creative Market',
-				'href' 		=> 		'http://j.mp/CM_WPTime',
-				'meta'		=>		array('target' => '_blank')
-			)
-		);
-
-		$wp_admin_bar->add_menu(
-			array(
-				'id' 		=> 		'wptime-aff-menu-tf',
-				'parent'	=>		'wptime-aff-menu-parent',
-				'title' 	=> 		'WP Themes On Themeforest',
-				'href' 		=> 		'http://j.mp/TF_WPTime',
-				'meta'		=>		array('target' => '_blank')
-			)
-		);
-	
-		$wp_admin_bar->add_menu(
-			array(
-				'id' 		=> 		'wptime-aff-menu-cc',
-				'parent'	=>		'wptime-aff-menu-parent',
-				'title' 	=> 		'WP Plugins On Codecanyon',
-				'href' 		=> 		'http://j.mp/CC_WPTime',
-				'meta'		=>		array('target' => '_blank')
-			)
-		);
-
-		$wp_admin_bar->add_menu(
-			array(
-				'id' 		=> 		'wptime-aff-menu-bh',
-				'parent'	=>		'wptime-aff-menu-parent',
-				'title' 	=> 		'Unlimited Web Hosting For $3.95 Only',
-				'href' 		=> 		'http://j.mp/BH_WPTime',
-				'meta'		=>		array('target' => '_blank')
-			)
-		);
-
-		$wp_admin_bar->add_menu(
-			array(
-				'id' 		=> 		'wptime-aff-menu-cas',
-				'parent'	=>		'wptime-aff-menu-parent',
-				'title' 	=> 		'Contact And Support',
-				'href' 		=> 		'http://wp-time.com/contact/',
-				'meta'		=>		array('target' => '_blank')
-			)
-		);
-
-	}
-	
-	add_action( 'wp_before_admin_bar_render', 'WPTime_Add_Admin_Bar_Menu_Aff');
-
-}
-
-
 // WP Time Page
 if( !function_exists('WP_Time_Ghozylab_Aff') ) {
 	function WP_Time_Ghozylab_Aff() {
@@ -135,7 +41,7 @@ if( !function_exists('WP_Time_Ghozylab_Aff') ) {
 					</div>
 					<div class="tool-box">
 						<h3 class="title">Great WordPress Plugins</h3>
-						<p>Best Gallery & Portfolio WordPress Plugins <a href="http://j.mp/GL_WPTime" target="_blank">Download Now</a>.</p>
+						<p><a href="http://j.mp/GL_WPTime" target="_blank">Must Have Awesome Plugins.</a></p>
                         <p><a href="http://j.mp/GL_WPTime" target="_blank"><img src="http://content.ghozylab.com/partners/aff/images/global-aff-img.png" width="728" height="90"></a></p>
 					</div>
                 </div>
