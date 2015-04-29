@@ -12,7 +12,7 @@ Display recent tweets in slider or without slider, standrad slider and auto slid
 
 == Description ==
 
-### Recent Tweets Slider                                                
+### Recent Tweets Slider                                                 
 
 Display recent tweets in slider or without slider, standrad slider and auto slider, responsive and retina, full customize and unlimited colors, 8 animation effects.
 
