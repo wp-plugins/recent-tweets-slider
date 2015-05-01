@@ -75,7 +75,7 @@ Display recent tweets in slider or without slider, standrad slider and auto slid
 == Changelog ==
 
 = 1.3 =
-* [WP Time need your donation.](http://j.mp/Donate_To_WPTime)
+* Support WordPress latest version.
 
 = 1.2 =
 Fixing some problems.
