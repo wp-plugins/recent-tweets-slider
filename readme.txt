@@ -39,7 +39,6 @@ Display recent tweets in slider or without slider, standrad slider and auto slid
 
 ### See Also
 
-* [WP Time need your donation.](http://j.mp/Donate_To_WPTime)
 * [Collection of 87 themes for $69 only.](http://j.mp/ET_WPTime)
 * [Get 50% discount for premium WordPress themes or plugins.](http://wp-time.com/get-50-discount-for-any-wordpress-themes-or-plugins/)
 * [Premium WordPress themes on Creative Market.](http://j.mp/CM_WPTime)
