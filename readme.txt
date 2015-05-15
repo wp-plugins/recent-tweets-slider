@@ -4,7 +4,7 @@ Donate link: http://j.mp/WPTime_donations
 Tags: recent, tweets, slider, recent tweets, api, latest, latest tweets, tweet, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, customize, customizer, custom, customizing, full
 Requires at least: 3.6
 Tested up to: 4.2.2
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -72,6 +72,9 @@ Display recent tweets in slider or without slider, standrad slider and auto slid
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
 
 == Changelog ==
+
+= 1.4 =
+* fixing problem in encode.
 
 = 1.3 =
 * Support WordPress latest version.

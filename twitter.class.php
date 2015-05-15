@@ -45,7 +45,7 @@ class WpTwitterApi {
         private function get_bearer_token() {
                 
                 $bearer_token_credentials = $this->args['consumer_key'] . ':' . $this->args['consumer_secret'];
-                $bearer_token_credentials_64 =  $bearer_token_credentials;
+                $bearer_token_credentials_64 =  base64_encode($bearer_token_credentials);
                 
                 $args = array(
                         'method'                =>         'POST',
