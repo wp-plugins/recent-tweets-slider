@@ -40,7 +40,7 @@ if( !function_exists('WP_Time_Ghozylab_Aff') ) {
 					</div>
                     
             	<div class="tool-box">
-					<h3 class="title">Beautiful WordPress Themes</h3>
+					<h3 class="title">Recommended Links</h3>
 					<p>Get collection of 87 WordPress themes for $69 only, a lot of features and free support! <a href="http://j.mp/ET_WPTime_ref_pl" target="_blank">Get it now</a>.</p>
 					<p>See also:</p>
 						<ul>
