@@ -40,7 +40,7 @@ Display recent tweets in slider or without slider, standrad slider and auto slid
 ### See Also
 
 * [Collection of 87 themes for $69 only.](http://j.mp/ET_WPTime)
-* [Request your WordPress plugin starting from $9.](http://j.mp/Request_Plugin_WPTime)
+* [Get $1,431+ worth of goods for only $39!](https://creativemarket.com/bundle/may-big-bundle?u=WPTime)
 * [Premium WordPress themes on Creative Market.](http://j.mp/CM_WPTime)
 * [Premium WordPress themes on Themeforest.](http://j.mp/TF_WPTime)
 * [Premium WordPress plugins on Codecanyon.](http://j.mp/CC_WPTime)
